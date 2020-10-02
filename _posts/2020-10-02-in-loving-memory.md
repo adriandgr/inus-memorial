@@ -9,7 +9,7 @@ title: Memorial at the Park
 
 -----
 
-![In loving memory of Inus](assets/inus.png) 
+![In loving memory of Inus](assets/invitation.png) 
 
 
 The memorial will be streamed via Zoom for friends and family. <br/>
