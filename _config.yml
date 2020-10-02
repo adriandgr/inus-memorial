@@ -2,7 +2,7 @@
 title: Inus Goussard
 url: https://inusgoussard.ca
 paginate: 1
-baseurl: "https://inusgoussard.ca"
+baseurl: "/"
 permalink: pretty
 
 # Gems
