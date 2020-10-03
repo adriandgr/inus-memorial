@@ -4,7 +4,7 @@ title: Memorial at the Park
 ---
 
 <p class="message">
-  <strong>Virtual Memorial:</strong> This page will be updated on the day of the memorial with a link to attend the memorial virtually via Facebook Live stream and Zoom.
+  <strong>Virtual Memorial:</strong> This page will be updated on the day of the memorial with a link to attend virtually via Facebook Live stream and Zoom.
 </p>
 
 -----
