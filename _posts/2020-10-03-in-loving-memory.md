@@ -9,12 +9,17 @@ title: Memorial at the Park
 
 -----
 
-![In loving memory of Inus](assets/invitation.png) 
+![In loving memory of Inus](/assets/invitation.png) 
 
 
 The memorial will be streamed via Facebook Live for friends and family, with a virtual wake hosted on Zoom immediately after the memorial. <br/>
 **Date:** Monday October 5th, 11:00am EST (5:00pm SAST, 4:00pm BST,  8:00am PST, 10:00am CDT) 
 
-The link **will be posted here** on the morning of the event. 
+A **[digital copy](/assets/Inus_memorial_program.pdf)** of the programme is available for download. 
+
+The Facebook Live stream will be **embedded here**   at the start of the broadcast. An alternate way of viewing is through the Facebook app or website by viewing to top post on Adrian's [profile page](https://www.facebook.com/profile.php?id=100055715440557). 
+
+
+Following the memorial, we will hold a virtual wake on Zoom. The start time of this zoom call will be approximately at 12:00pm EST (6:00pm SAST). <br/> **[Please join this call with this link](https://us04web.zoom.us/j/79528511071?pwd=dUl3RmduK1VnQU8zbFAxR2VZSTViQT09)**.
 
 Please [download Zoom](https://zoom.us/support/download) ahead of time to ensure timely viewing of the virtual wake. In the event of technical difficulties, a video will also be shared of the memorial in the days after. 
